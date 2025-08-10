@@ -2,7 +2,7 @@
 
 > Um jogo de estratégia em turnos para dois jogadores, executado via console e construído inteiramente com Java.
 
-![Demonstração do Jogo](https://i.imgur.com/3c8iWqJ.gif)
+![Demonstração do Jogo](https://i.imgur.com/zQ5JUCv.gif)
 ---
 
 ## 📝 Sobre o Projeto
